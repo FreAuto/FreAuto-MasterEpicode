@@ -1,5 +1,7 @@
 # 🎓 Master Data Analyst – Epicode
 
+![Esami del Master](copertina.png)
+
 **Francesco Autorino**
 
 In questo repository raccolgo gli esami finali dei moduli del Master Data Analyst di Epicode, in ordine di corso.
